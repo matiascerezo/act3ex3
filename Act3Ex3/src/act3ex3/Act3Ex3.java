@@ -9,7 +9,7 @@ public class Act3Ex3 {
         Scanner lector = new Scanner(System.in);
 
         System.out.print("Número de UF a matricularte(Ex: 5) : ");
-        int uf = lector.nextInt();
+        int uf = lector.nextInt(); 
         calculMatricula(uf);
 
     }
